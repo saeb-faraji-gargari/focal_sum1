@@ -1,0 +1,2 @@
+/usr/bin/ar qc libName_library.a CMakeFiles/Name_library.dir/src/GDAL_focal_sum_3_to_3.cpp.o
+/usr/bin/ranlib libName_library.a

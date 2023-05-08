@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Name_test.dir/src/test.cpp.o -o Name_test 

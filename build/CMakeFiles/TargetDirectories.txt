@@ -1,0 +1,6 @@
+/home/saeb/focal_sum_project/test_GDAL_and_command_line_argument/GDAL_class2_end_git/build/CMakeFiles/focal_sum.dir
+/home/saeb/focal_sum_project/test_GDAL_and_command_line_argument/GDAL_class2_end_git/build/CMakeFiles/Name_library.dir
+/home/saeb/focal_sum_project/test_GDAL_and_command_line_argument/GDAL_class2_end_git/build/CMakeFiles/Name_test.dir
+/home/saeb/focal_sum_project/test_GDAL_and_command_line_argument/GDAL_class2_end_git/build/CMakeFiles/test.dir
+/home/saeb/focal_sum_project/test_GDAL_and_command_line_argument/GDAL_class2_end_git/build/CMakeFiles/edit_cache.dir
+/home/saeb/focal_sum_project/test_GDAL_and_command_line_argument/GDAL_class2_end_git/build/CMakeFiles/rebuild_cache.dir
